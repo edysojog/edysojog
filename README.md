@@ -29,6 +29,7 @@ My main focus is **cybersecurity**, with a particular interest in how systems ca
 ### 💻 Projects
 
 > #### [Portfolio Site](https://github.com/edysojog/Portfolio-Site) | Terminal-style personal CV built with Vanilla JS
+> #### [Whatsapp-Web TUI](https://github.com/edysojog/w-tui) | Whatsapp-Web Terminal User Interface built with python and Node.js
 
 <sup>More coming soon — feel free to explore.</sup>
 
