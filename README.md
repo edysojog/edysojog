@@ -30,7 +30,7 @@ My main focus is **cybersecurity**, with a particular interest in how systems ca
 
 > #### [Portfolio Site](https://github.com/edysojog/Portfolio-Site) | Terminal-style personal CV built with Vanilla JS
 > #### [Personal Homelab](https://github.com/edysojog/homelab) | Personal Homelab Project Documentation
-> #### [Whatsapp-Web TUI](https://github.com/edysojog/w-tui) | Whatsapp-Web Terminal User Interface built with python and Node.js
+> #### [Whatsapp-Web TUI](https://github.com/edysojog/w-tui) | Whatsapp-Web Terminal User Interface built with Python and Node.js
 
 <sup>More coming soon — feel free to explore.</sup>
 
