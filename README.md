@@ -1,14 +1,17 @@
-# 👾 Dumitrache Eduard
-
-**`Cybernetics Student | Aspiring Cybersecurity Professional`**
-
-### 🎯 About me
-
-2nd year student at **ASE — Cybernetics and Economic Informatics**, Bucharest.
-
-I'm passionate about understanding how systems work at a deep level — whether that's diagnosing hardware, exploring security vulnerabilities, or building side projects from scratch. I don't let go of a subject until I truly get it.
-
-My main focus is **cybersecurity**, with a particular interest in how systems can be broken and, more importantly, how they can be defended.
+<div align="center">
+<img src="https://raw.githubusercontent.com/edysojog/edysojog/main/assets/lain-sel.gif" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello%2C+friend." width="70%" />
+<br><br>
+<pre>
+    🛡️ Cybersecurity enthusiast • QA Automation Tester @ Gameloft
+    🎓 BSc @ ASE Bucharest, Cybernetics & Economic Informatics
+    🤖 AI Automation & Scripting • QA Tooling
+    💻 Building from scratch • Homelab tinkering • Terminal enjoyer • Linux larper
+    🎮 Games • Code • Anime • Music
+</pre>
+<br>
+<img src="https://raw.githubusercontent.com/edysojog/edysojog/main/assets/mr-robot.gif" height="140" />
+</div>
 
 ---
 
@@ -40,19 +43,3 @@ My main focus is **cybersecurity**, with a particular interest in how systems ca
 
 - Instagram: [@edyyzy](https://www.instagram.com/edyyzy)
 - Email: paypaldumy@gmail.com
-
-
-<!--
-**edysojog/edysojog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
