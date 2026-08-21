@@ -29,7 +29,7 @@
 ---
 
 ### 💻 Projects
-
+> #### [Mr Robot](https://github.com/edysojog/mr-robot) | Local security auditor
 > #### [Portfolio Site](https://github.com/edysojog/Portfolio-Site) | Terminal-style personal CV built with Vanilla JS
 > #### [Personal Homelab](https://github.com/edysojog/homelab) | Personal Homelab Project Documentation
 > #### [Whatsapp-Web TUI](https://github.com/edysojog/w-tui) | Whatsapp-Web Terminal User Interface built with Python and Node.js
